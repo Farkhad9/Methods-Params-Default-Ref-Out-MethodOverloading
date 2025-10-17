@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.AssemblyInfo.cs
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\bin\Debug\net8.0\MethodPractice.Lesson.exe
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\bin\Debug\net8.0\MethodPractice.Lesson.deps.json
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\bin\Debug\net8.0\MethodPractice.Lesson.runtimeconfig.json
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\bin\Debug\net8.0\MethodPractice.Lesson.dll
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\bin\Debug\net8.0\MethodPractice.Lesson.pdb
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.dll
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\refint\MethodPractice.Lesson.dll
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.pdb
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\MethodPractice.Lesson.genruntimeconfig.cache
+C:\Users\User\Desktop\MethodPractice\MethodPractice.Lesson\obj\Debug\net8.0\ref\MethodPractice.Lesson.dll
